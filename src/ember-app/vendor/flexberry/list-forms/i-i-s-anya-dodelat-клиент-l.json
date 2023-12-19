@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-anya-dodelat-клиент-e",
+  "editForm": "i-i-s-anya-dodelat-клиент-e",
+  "external": false,
+  "caption": "Клиент",
+  "name": "IISAnyaDodelatКлиентL",
+  "className": "КлиентL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-клиент",
+      "modelProjection": "КлиентL"
+    }
+  ]
+}

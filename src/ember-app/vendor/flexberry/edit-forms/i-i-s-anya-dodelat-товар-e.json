@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Производитель",
+      "projection": "ПроизводительL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Товар",
+  "name": "IISAnyaDodelatТоварE",
+  "className": "ТоварE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-товар",
+      "modelProjection": "ТоварE"
+    }
+  ]
+}

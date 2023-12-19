@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-anya-dodelat-услуга-e",
+  "editForm": "i-i-s-anya-dodelat-услуга-e",
+  "external": false,
+  "caption": "Услуга",
+  "name": "IISAnyaDodelatУслугаL",
+  "className": "УслугаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-услуга",
+      "modelProjection": "УслугаL"
+    }
+  ]
+}

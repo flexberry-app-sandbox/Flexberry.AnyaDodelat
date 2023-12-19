@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Должности",
+      "projection": "ДолжностиL",
+      "detailModelName": null
+    },
+    {
+      "master": "услуга",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "УслугиМастера.Услуга",
+      "projection": "УслугаL",
+      "detailModelName": "i-i-s-anya-dodelat-услуги-мастера"
+    }
+  ],
+  "external": false,
+  "caption": "Сотрудник",
+  "name": "IISAnyaDodelatсотрудникE",
+  "className": "сотрудникE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-сотрудник",
+      "modelProjection": "сотрудникE"
+    }
+  ]
+}

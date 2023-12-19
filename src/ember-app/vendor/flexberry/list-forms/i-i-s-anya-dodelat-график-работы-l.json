@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-anya-dodelat-график-работы-e",
+  "editForm": "i-i-s-anya-dodelat-график-работы-e",
+  "external": false,
+  "caption": "График работы",
+  "name": "IISAnyaDodelatГрафикРаботыL",
+  "className": "ГрафикРаботыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-график-работы",
+      "modelProjection": "ГрафикРаботыL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-anya-dodelat-должности-e",
+  "editForm": "i-i-s-anya-dodelat-должности-e",
+  "external": false,
+  "caption": "Должности",
+  "name": "IISAnyaDodelatДолжностиL",
+  "className": "ДолжностиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-должности",
+      "modelProjection": "ДолжностиL"
+    }
+  ]
+}

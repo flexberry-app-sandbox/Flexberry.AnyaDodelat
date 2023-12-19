@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "сотрудник",
+      "projection": "сотрудникL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Табель смены",
+  "name": "IISAnyaDodelatТабельСменыE",
+  "className": "ТабельСменыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-табель-смены",
+      "modelProjection": "ТабельСменыE"
+    }
+  ]
+}

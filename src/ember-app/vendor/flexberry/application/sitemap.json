@@ -1,0 +1,85 @@
+﻿{
+  "applicationCaption": "Anya dodelat",
+  "applicationTitle": "Anya dodelat",
+  "items": [
+    {
+      "link": null,
+      "menuName": "anya-dodelat",
+      "caption": "AnyaDodelat",
+      "title": "AnyaDodelat",
+      "children": [
+        {
+          "link": "i-i-s-anya-dodelat-график-работы-l",
+          "menuName": null,
+          "caption": "График работы",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-табель-смены-l",
+          "menuName": null,
+          "caption": "Табель смены",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-отсутствие-l",
+          "menuName": null,
+          "caption": "Отсутствие",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-товар-l",
+          "menuName": null,
+          "caption": "Товар",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-услуга-l",
+          "menuName": null,
+          "caption": "Услуга",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-визит-l",
+          "menuName": null,
+          "caption": "Визит",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-производитель-l",
+          "menuName": null,
+          "caption": "Производитель",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

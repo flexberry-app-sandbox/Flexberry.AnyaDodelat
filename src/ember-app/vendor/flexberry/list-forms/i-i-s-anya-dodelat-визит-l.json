@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-anya-dodelat-визит-e",
+  "editForm": "i-i-s-anya-dodelat-визит-e",
+  "external": false,
+  "caption": "Визит",
+  "name": "IISAnyaDodelatВизитL",
+  "className": "ВизитL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-визит",
+      "modelProjection": "ВизитL"
+    }
+  ]
+}

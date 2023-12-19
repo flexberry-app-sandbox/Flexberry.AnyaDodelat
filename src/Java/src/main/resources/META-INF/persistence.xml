@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistencehttp://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="Olingo4PG">
+        <class>AnyaDodelat.model.GrafikRaboty</class>
+        <class>AnyaDodelat.model.Klient</class>
+        <class>AnyaDodelat.model.UslugiMastera</class>
+        <class>AnyaDodelat.model.TabelSmeny</class>
+        <class>AnyaDodelat.model.Dolzhnosti</class>
+        <class>AnyaDodelat.model.Otsutstvie</class>
+        <class>AnyaDodelat.model.sotrudnik</class>
+        <class>AnyaDodelat.model.ZapisVizita</class>
+        <class>AnyaDodelat.model.Tovar</class>
+        <class>AnyaDodelat.model.SostavUslugi</class>
+        <class>AnyaDodelat.model.Usluga</class>
+        <class>AnyaDodelat.model.Vizit</class>
+        <class>AnyaDodelat.model.Proizvoditel</class>
+        <class>AnyaDodelat.model.FlexberryAdvLimit</class>
+        <class>AnyaDodelat.model.NewPlatformFlexberryFlexberryUserSetting</class>
+        <class>AnyaDodelat.model.NewPlatformFlexberryServicesLock</class>
+        <class>AnyaDodelat.model.IISCaseberryLoggingObjectsApplicationLog</class>
+
+    </persistence-unit>
+</persistence>

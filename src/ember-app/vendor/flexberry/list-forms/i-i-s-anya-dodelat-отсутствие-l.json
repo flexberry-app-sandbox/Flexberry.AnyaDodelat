@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-anya-dodelat-отсутствие-e",
+  "editForm": "i-i-s-anya-dodelat-отсутствие-e",
+  "external": false,
+  "caption": "Отсутствие",
+  "name": "IISAnyaDodelatОтсутствиеL",
+  "className": "ОтсутствиеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-отсутствие",
+      "modelProjection": "ОтсутствиеL"
+    }
+  ]
+}

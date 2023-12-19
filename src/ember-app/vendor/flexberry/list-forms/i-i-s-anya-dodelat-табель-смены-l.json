@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-anya-dodelat-табель-смены-e",
+  "editForm": "i-i-s-anya-dodelat-табель-смены-e",
+  "external": false,
+  "caption": "Табель смены",
+  "name": "IISAnyaDodelatТабельСменыL",
+  "className": "ТабельСменыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-anya-dodelat-табель-смены",
+      "modelProjection": "ТабельСменыL"
+    }
+  ]
+}
