@@ -33,14 +33,14 @@
       "modelName": "i-i-s-anya-dodelat-должности",
       "attrs": [
         {
-          "name": "должность",
-          "caption": "Должность",
+          "name": "кодДолжности",
+          "caption": "Код должности",
           "hidden": false,
           "index": 0
         },
         {
-          "name": "кодДолжности",
-          "caption": "Код должности",
+          "name": "должность",
+          "caption": "Должность",
           "hidden": false,
           "index": 1
         }
@@ -53,14 +53,14 @@
       "modelName": "i-i-s-anya-dodelat-должности",
       "attrs": [
         {
-          "name": "должность",
-          "caption": "Должность",
+          "name": "кодДолжности",
+          "caption": "Код должности",
           "hidden": false,
           "index": 0
         },
         {
-          "name": "кодДолжности",
-          "caption": "Код должности",
+          "name": "должность",
+          "caption": "Должность",
           "hidden": false,
           "index": 1
         }

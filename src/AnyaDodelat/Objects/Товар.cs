@@ -29,15 +29,15 @@ namespace IIS.AnyaDodelat
     [AutoAltered()]
     [AccessType(ICSSoft.STORMNET.AccessType.none)]
     [View("ТоварE", new string[] {
-            "Наименование as \'Наименование\'",
             "КодТовара as \'Код товара\'",
+            "Наименование as \'Наименование\'",
             "Производитель as \'Производитель\'",
             "Производитель.Наименование as \'Наименование\'"}, Hidden=new string[] {
             "Производитель.Наименование"})]
     [MasterViewDefineAttribute("ТоварE", "Производитель", ICSSoft.STORMNET.LookupTypeEnum.Standard, "", "Наименование")]
     [View("ТоварL", new string[] {
-            "Наименование as \'Наименование\'",
             "КодТовара as \'Код товара\'",
+            "Наименование as \'Наименование\'",
             "Производитель.Наименование as \'Наименование\'"})]
     public class Товар : ICSSoft.STORMNET.DataObject
     {

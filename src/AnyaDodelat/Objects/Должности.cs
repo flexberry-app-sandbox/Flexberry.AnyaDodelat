@@ -29,11 +29,11 @@ namespace IIS.AnyaDodelat
     [AutoAltered()]
     [AccessType(ICSSoft.STORMNET.AccessType.none)]
     [View("ДолжностиE", new string[] {
-            "Должность as \'Должность\'",
-            "КодДолжности as \'Код должности\'"})]
+            "КодДолжности as \'Код должности\'",
+            "Должность as \'Должность\'"})]
     [View("ДолжностиL", new string[] {
-            "Должность as \'Должность\'",
-            "КодДолжности as \'Код должности\'"})]
+            "КодДолжности as \'Код должности\'",
+            "Должность as \'Должность\'"})]
     public class Должности : ICSSoft.STORMNET.DataObject
     {
         

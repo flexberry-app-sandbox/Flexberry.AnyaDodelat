@@ -27,22 +27,22 @@
   <div class="field">
     {{flexberry-field
       readonly=readonly
-      value=model.фИО
-      class=(if (v-get validationModel "фИО" "isInvalid") "error")
-      label=(t "forms.i-i-s-anya-dodelat-сотрудник-e.фИО-caption")
-      data-test-i-i-s-anya-dodelat-сотрудник-e-фИО=true
-    }}
-    {{flexberry-validationmessage error=(v-get validationModel "фИО" "message")}}
-  </div>
-  <div class="field">
-    {{flexberry-field
-      readonly=readonly
       value=model.кодСотрудника
       class=(if (v-get validationModel "кодСотрудника" "isInvalid") "error")
       label=(t "forms.i-i-s-anya-dodelat-сотрудник-e.кодСотрудника-caption")
       data-test-i-i-s-anya-dodelat-сотрудник-e-кодСотрудника=true
     }}
     {{flexberry-validationmessage error=(v-get validationModel "кодСотрудника" "message")}}
+  </div>
+  <div class="field">
+    {{flexberry-field
+      readonly=readonly
+      value=model.фИО
+      class=(if (v-get validationModel "фИО" "isInvalid") "error")
+      label=(t "forms.i-i-s-anya-dodelat-сотрудник-e.фИО-caption")
+      data-test-i-i-s-anya-dodelat-сотрудник-e-фИО=true
+    }}
+    {{flexberry-validationmessage error=(v-get validationModel "фИО" "message")}}
   </div>
   <div class="field">
     <label>{{t "forms.i-i-s-anya-dodelat-сотрудник-e.датаРождения-caption"}}</label>

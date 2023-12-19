@@ -30,8 +30,8 @@ namespace IIS.AnyaDodelat
     [Caption("Сотрудник")]
     [AccessType(ICSSoft.STORMNET.AccessType.none)]
     [View("сотрудникE", new string[] {
-            "ФИО as \'ФИО\'",
             "КодСотрудника as \'Код сотрудника\'",
+            "ФИО as \'ФИО\'",
             "ДатаРождения as \'Дата рождения\'",
             "НомерТелефона as \'Номер телефона\'",
             "Пол as \'Пол\'",
@@ -42,8 +42,8 @@ namespace IIS.AnyaDodelat
             ""})]
     [MasterViewDefineAttribute("сотрудникE", "Должности", ICSSoft.STORMNET.LookupTypeEnum.Standard, "", "Должность")]
     [View("сотрудникL", new string[] {
-            "ФИО as \'ФИО\'",
             "КодСотрудника as \'Код сотрудника\'",
+            "ФИО as \'ФИО\'",
             "ДатаРождения as \'Дата рождения\'",
             "НомерТелефона as \'Номер телефона\'",
             "Пол as \'Пол\'",

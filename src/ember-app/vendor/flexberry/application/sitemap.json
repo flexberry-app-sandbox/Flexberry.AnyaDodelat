@@ -4,78 +4,118 @@
   "items": [
     {
       "link": null,
-      "menuName": "anya-dodelat",
-      "caption": "AnyaDodelat",
-      "title": "AnyaDodelat",
+      "menuName": "сотрудники",
+      "caption": "Сотрудники",
+      "title": "Сотрудники",
       "children": [
         {
-          "link": "i-i-s-anya-dodelat-график-работы-l",
+          "link": "i-i-s-anya-dodelat-сотрудник-l",
           "menuName": null,
-          "caption": "График работы",
-          "title": "",
-          "children": null
-        },
-        {
-          "link": "i-i-s-anya-dodelat-клиент-l",
-          "menuName": null,
-          "caption": "Клиент",
-          "title": "",
-          "children": null
-        },
-        {
-          "link": "i-i-s-anya-dodelat-табель-смены-l",
-          "menuName": null,
-          "caption": "Табель смены",
-          "title": "",
+          "caption": "сотрудник",
+          "title": "Сотрудник",
           "children": null
         },
         {
           "link": "i-i-s-anya-dodelat-должности-l",
           "menuName": null,
           "caption": "Должности",
-          "title": "",
+          "title": "Должности",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "график-работы",
+      "caption": "График работы",
+      "title": "График работы",
+      "children": [
+        {
+          "link": "i-i-s-anya-dodelat-график-работы-l",
+          "menuName": null,
+          "caption": "ГрафикРаботы",
+          "title": "График работы",
+          "children": null
+        },
+        {
+          "link": "i-i-s-anya-dodelat-табель-смены-l",
+          "menuName": null,
+          "caption": "ТабельСмены",
+          "title": "Табель смены",
           "children": null
         },
         {
           "link": "i-i-s-anya-dodelat-отсутствие-l",
           "menuName": null,
           "caption": "Отсутствие",
-          "title": "",
+          "title": "Отсутствие",
           "children": null
-        },
-        {
-          "link": "i-i-s-anya-dodelat-сотрудник-l",
-          "menuName": null,
-          "caption": "Сотрудник",
-          "title": "",
-          "children": null
-        },
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "справочник-товары",
+      "caption": "Справочник товары",
+      "title": "Справочник товары",
+      "children": [
         {
           "link": "i-i-s-anya-dodelat-товар-l",
           "menuName": null,
           "caption": "Товар",
-          "title": "",
-          "children": null
-        },
-        {
-          "link": "i-i-s-anya-dodelat-услуга-l",
-          "menuName": null,
-          "caption": "Услуга",
-          "title": "",
-          "children": null
-        },
-        {
-          "link": "i-i-s-anya-dodelat-визит-l",
-          "menuName": null,
-          "caption": "Визит",
-          "title": "",
+          "title": "Товар",
           "children": null
         },
         {
           "link": "i-i-s-anya-dodelat-производитель-l",
           "menuName": null,
           "caption": "Производитель",
-          "title": "",
+          "title": "Производитель",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "запись-на-визит",
+      "caption": "Запись на визит",
+      "title": "Запись на визит",
+      "children": [
+        {
+          "link": "i-i-s-anya-dodelat-визит-l",
+          "menuName": null,
+          "caption": "Визит",
+          "title": "Визит",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "услуги",
+      "caption": "Услуги",
+      "title": "Услуги",
+      "children": [
+        {
+          "link": "i-i-s-anya-dodelat-услуга-l",
+          "menuName": null,
+          "caption": "Услуга",
+          "title": "Услуга",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "наши-клиенты",
+      "caption": "Наши клиенты",
+      "title": "Наши клиенты",
+      "children": [
+        {
+          "link": "i-i-s-anya-dodelat-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "Клиент",
           "children": null
         }
       ]

@@ -41,14 +41,14 @@
       "modelName": "i-i-s-anya-dodelat-товар",
       "attrs": [
         {
-          "name": "наименование",
-          "caption": "Наименование",
+          "name": "кодТовара",
+          "caption": "Код товара",
           "hidden": false,
           "index": 0
         },
         {
-          "name": "кодТовара",
-          "caption": "Код товара",
+          "name": "наименование",
+          "caption": "Наименование",
           "hidden": false,
           "index": 1
         }
@@ -83,14 +83,14 @@
       "modelName": "i-i-s-anya-dodelat-товар",
       "attrs": [
         {
-          "name": "наименование",
-          "caption": "Наименование",
+          "name": "кодТовара",
+          "caption": "Код товара",
           "hidden": false,
           "index": 0
         },
         {
-          "name": "кодТовара",
-          "caption": "Код товара",
+          "name": "наименование",
+          "caption": "Наименование",
           "hidden": false,
           "index": 1
         }

@@ -118,6 +118,70 @@ $.extend(true, translations, {
           caption: 'Главная',
           title: ''
         },
+        сотрудники: {
+          caption: 'Сотрудники',
+          title: 'Сотрудники',
+          'i-i-s-anya-dodelat-сотрудник-l': {
+            caption: 'сотрудник',
+            title: 'Сотрудник'
+          },
+          'i-i-s-anya-dodelat-должности-l': {
+            caption: 'Должности',
+            title: 'Должности'
+          }
+        },
+        'график-работы': {
+          caption: 'График работы',
+          title: 'График работы',
+          'i-i-s-anya-dodelat-график-работы-l': {
+            caption: 'ГрафикРаботы',
+            title: 'График работы'
+          },
+          'i-i-s-anya-dodelat-табель-смены-l': {
+            caption: 'ТабельСмены',
+            title: 'Табель смены'
+          },
+          'i-i-s-anya-dodelat-отсутствие-l': {
+            caption: 'Отсутствие',
+            title: 'Отсутствие'
+          }
+        },
+        'справочник-товары': {
+          caption: 'Справочник товары',
+          title: 'Справочник товары',
+          'i-i-s-anya-dodelat-товар-l': {
+            caption: 'Товар',
+            title: 'Товар'
+          },
+          'i-i-s-anya-dodelat-производитель-l': {
+            caption: 'Производитель',
+            title: 'Производитель'
+          }
+        },
+        'запись-на-визит': {
+          caption: 'Запись на визит',
+          title: 'Запись на визит',
+          'i-i-s-anya-dodelat-визит-l': {
+            caption: 'Визит',
+            title: 'Визит'
+          }
+        },
+        услуги: {
+          caption: 'Услуги',
+          title: 'Услуги',
+          'i-i-s-anya-dodelat-услуга-l': {
+            caption: 'Услуга',
+            title: 'Услуга'
+          }
+        },
+        'наши-клиенты': {
+          caption: 'Наши клиенты',
+          title: 'Наши клиенты',
+          'i-i-s-anya-dodelat-клиент-l': {
+            caption: 'Клиент',
+            title: 'Клиент'
+          }
+        },
         'anya-dodelat': {
           caption: 'AnyaDodelat',
           title: 'AnyaDodelat',

@@ -74,14 +74,14 @@
       "modelName": "i-i-s-anya-dodelat-сотрудник",
       "attrs": [
         {
-          "name": "фИО",
-          "caption": "ФИО",
+          "name": "кодСотрудника",
+          "caption": "Код сотрудника",
           "hidden": false,
           "index": 0
         },
         {
-          "name": "кодСотрудника",
-          "caption": "Код сотрудника",
+          "name": "фИО",
+          "caption": "ФИО",
           "hidden": false,
           "index": 1
         },
@@ -142,14 +142,14 @@
       "modelName": "i-i-s-anya-dodelat-сотрудник",
       "attrs": [
         {
-          "name": "фИО",
-          "caption": "ФИО",
+          "name": "кодСотрудника",
+          "caption": "Код сотрудника",
           "hidden": false,
           "index": 0
         },
         {
-          "name": "кодСотрудника",
-          "caption": "Код сотрудника",
+          "name": "фИО",
+          "caption": "ФИО",
           "hidden": false,
           "index": 1
         },

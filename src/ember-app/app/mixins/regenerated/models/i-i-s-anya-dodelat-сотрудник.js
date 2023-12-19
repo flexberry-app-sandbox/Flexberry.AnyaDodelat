@@ -66,8 +66,8 @@ export let ValidationRules = {
 
 export let defineProjections = function (modelClass) {
   modelClass.defineProjection('сотрудникE', 'i-i-s-anya-dodelat-сотрудник', {
-    фИО: attr('ФИО', { index: 0 }),
-    кодСотрудника: attr('Код сотрудника', { index: 1 }),
+    кодСотрудника: attr('Код сотрудника', { index: 0 }),
+    фИО: attr('ФИО', { index: 1 }),
     датаРождения: attr('Дата рождения', { index: 2 }),
     номерТелефона: attr('Номер телефона', { index: 3 }),
     пол: attr('Пол', { index: 4 }),
@@ -82,8 +82,8 @@ export let defineProjections = function (modelClass) {
   });
 
   modelClass.defineProjection('сотрудникL', 'i-i-s-anya-dodelat-сотрудник', {
-    фИО: attr('ФИО', { index: 0 }),
-    кодСотрудника: attr('Код сотрудника', { index: 1 }),
+    кодСотрудника: attr('Код сотрудника', { index: 0 }),
+    фИО: attr('ФИО', { index: 1 }),
     датаРождения: attr('Дата рождения', { index: 2 }),
     номерТелефона: attr('Номер телефона', { index: 3 }),
     пол: attr('Пол', { index: 4 }),
